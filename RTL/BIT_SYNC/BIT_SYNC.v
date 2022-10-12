@@ -1,6 +1,6 @@
 module BIT_SYNC #(
    parameter NUM_STAGES = 2 ,
-             BUS_WIDTH = 1 
+             BUS_WIDTH = 1
 )(
 input    wire                      CLK,
 input    wire                      RST,
